@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azizayan
+- 👋 Hi, I’m @azizemreayan
 - 👀 I’m interested in ai,physics,ml,nlp,f1
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me azizayan52@gmail.com
