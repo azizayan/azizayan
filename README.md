@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @azizayan
-- I’m interested in ai/ml/dl/rl
-- reach me azizayan52@gmail.com
-- i love watching f1 and any kind of sports generally
-- I'm student at Bilkent University Computer science department.
-- 
+# Hi, I’m Aziz Emre 👋
+Computer Science student at **Bilkent University**  
 
-<!---
-azizayan/azizayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I focus on building practical ML systems with clean, understandable logic.
+
+---
+
+## 🧠 Technical Focus
+- **Applied Machine Learning**  
+  Data preprocessing, feature engineering, model training, evaluation
+
+- **Algorithms & Problem Solving**  
+  Math-driven thinking, efficiency-aware solutions
+
+- **AI Systems Mindset**  
+  Understanding how components interact beyond black-box usage
+
+---
+
+## 🛠️ Tech Stack
+**Languages**
+- Python (primary)
+- Java
+- C++
+- JavaScript (learning)
+
+**ML / Data**
+- NumPy  
+- pandas  
+- scikit-learn  
+
+**Tools**
+- Git & GitHub  
+- GitHub Copilot  
+
+---
+
+
